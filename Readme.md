@@ -3,6 +3,8 @@
 **Team El Shaddai · VisualSim Electronics Hackathon 2026 · Challenge 3**
 *Data Visualization, Bottleneck Detection & Debugging*
 
+**🏆 Award Winner – Best Presentation  
+VisualSim Electronics Hackathon 2026 (Global)**
 ---
 
 ## Bugs Found in the Real Data

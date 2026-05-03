@@ -1,0 +1,24 @@
+
+HNS_9 Snoop packet count = 1
+
+HNS_10 Snoop packet count = 1
+
+HNS_5 Snoop packet count = 1
+
+HNS_6 Snoop packet count = 3
+
+HNS_7 Snoop packet count = 1
+
+HNS_12 Snoop packet count = 2
+
+HNS_11 Snoop packet count = 2
+
+HNS_8 Snoop packet count = 0
+
+HNS_2 Snoop packet count = 2
+
+HNS_4 Snoop packet count = 1
+
+HNS_3 Snoop packet count = 2
+
+HNS_1 Snoop packet count = 7

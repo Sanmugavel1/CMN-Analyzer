@@ -1,0 +1,18 @@
+# ============================================================
+# CMN Cyprus Analyzer — Team El Shaddai
+# VisualSim Hackathon 2026 | Challenge 3
+# ============================================================
+# Install all dependencies with one command:
+#   pip install -r requirements.txt
+# ============================================================
+
+# Data processing
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Interactive dashboard
+dash>=2.9.0
+plotly>=5.14.0
+
+# PDF report generation
+reportlab>=3.6.0
